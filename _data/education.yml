@@ -1,0 +1,16 @@
+# Degree
+  #awards:
+    #- award: Summa Cumme Laude graduate
+  
+############
+- degree: M.Sc. degree in software Computer engineering, Tehran, Iran. 
+  uni: Islamic Azad University, Science and Research Branch
+  year: 2011 &mdash; 2014
+  #award: Most likely to succeed
+  summary: <p> Specialization in Information Retrieval, Dissertation topic; Computing  GEO text semantic relatedness using improved explicit semantic analysis. Thesis Rank; Excellent, Advisor; Dr.Mirroshandel, First rank among all computer students in 2010.</p>
+
+#############
+- degree: B.Sc. degree in software Computer engineering, Lahijan, Iran. 
+  uni: Islamic Azad University, Lahijan Branch
+  year: 2005 &mdash; 2009
+  summary: <p> Specialization in E-Learning, Dissertation topic; E-Learning in Higher Education.</p>
